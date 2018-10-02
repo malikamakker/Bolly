@@ -1,8 +1,8 @@
-#BollyBuff
+# BollyBuff
 
 A platform to explore movies and to analyze movies in depth
 
-##Find our documentation:
+## Find our documentation:
  - idea_doc.docx - presents the idea
  - BollyBuff.pptx - documentation of each component
  - BollyBuffVideo.mp4 - video submission

@@ -1,13 +1,15 @@
 # BollyBuff
-
+</br>
 A platform to explore movies and to analyze movies in depth
 
 ## Find our documentation:
+</br>
  - idea_doc.docx - presents the idea
  - BollyBuff.pptx - documentation of each component
- - BollyBuffVideo.mp4 - video submission
+ - BollyBuffVideo.mp4(BollyBuffVideo.rar) - video submission - can be found at https://drive.google.com/file/d/1-Q0vQPQDE-uyQ6-BNefVWBQ_yaPw6Dv6/view?usp=sharing
  
 ## The files in our repository:
+</br>
  - cluster_predict.py - Takes poster image as input and predicts the genre of the movies
  - genre.py - To perform the clustering for genre prediction
  - image_test.py - Pretrained model for emotion detection from images

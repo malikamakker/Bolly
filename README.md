@@ -20,6 +20,7 @@ A platform to explore movies and to analyze movies in depth
  - UI.py - Python flask framework </br>
  - word_cloud.py - Identifies the important characters in the movies using the script, and draws the word clouds of these characters </br>
  - songs.py - Plots the count of female and male singers in different years </br>
+ - templates - html files that are rendered by the Flask application <br/>
 
 ## How to run the code:
 </br>

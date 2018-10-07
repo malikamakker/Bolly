@@ -6,7 +6,7 @@ A platform to explore movies and to analyze movies in depth
 </br>
  - idea_doc.docx - presents the idea <br/>
  - BollyBuff.pptx - documentation of each component </br>
- - BollyBuffVideo.mp4(BollyBuffVideo.rar) - video submission - can be found at https://drive.google.com/file/d/1-Q0vQPQDE-uyQ6-BNefVWBQ_yaPw6Dv6/view?usp=sharing
+ - BollyBuffVideo.mp4(BollyBuffVideo.rar) - video submission - can also be found at https://drive.google.com/file/d/1v6JJX82c4_0KjzbiE6Pd9ImhhQ0aUsMK/view?usp=sharing
  
 ## The files in our repository:
 </br>

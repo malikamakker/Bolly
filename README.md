@@ -22,5 +22,5 @@ A platform to explore movies and to analyze movies in depth
 
 ## How to run the code:
 </br>
- - Install all dependencies including python 3.5, IBM Watson sdk, nltk, wordcloud, scikit, matplotlib, shapely, keras and run the UI.py file.
+ - Install all dependencies including python 3.5, IBM Watson sdk, nltk, wordcloud, scikit, matplotlib, shapely, keras and run the UI.py file. </br>
  - To run the word cloud, allow unicode character printing on terminal by using command - chcp 65001

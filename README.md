@@ -19,3 +19,7 @@ A platform to explore movies and to analyze movies in depth
  - UI.py - Python flask framework </br>
  - word_cloud.py - Identifies the important characters in the movies using the script, and draws the word clouds of these characters </br>
  - songs.py - Plots the count of female and male singers in different years </br>
+
+## How to run the code:
+</br>
+ - Install all dependencies including python 3.5, IBM Watson sdk, nltk, wordcloud, scikit, matplotlib, shapely, keras and run the UI.py 

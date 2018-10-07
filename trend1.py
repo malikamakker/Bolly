@@ -47,5 +47,5 @@ def plot_climax(text):
     plt.legend()
     plt.grid(True,color='k')
     plt.savefig(r'C:\Users\User\Desktop\Facial_emotion_recognition_using_Keras-master/static/images/trend.jpg')
-    #plt.show()
+    plt.show()
 

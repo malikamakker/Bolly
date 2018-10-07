@@ -5,8 +5,9 @@ A platform to explore movies and to analyze movies in depth
 ## Find our documentation:
 </br>
  - idea_doc.docx - presents the idea <br/>
+ - key proposition.docx - presents the business values and USP of the project.
  - BollyBuff.pptx - documentation of each component </br>
- - BollyBuffVideo.mp4(BollyBuffVideo.rar) - video submission - can also be found at https://drive.google.com/file/d/1v6JJX82c4_0KjzbiE6Pd9ImhhQ0aUsMK/view?usp=sharing
+ - BollyBuffVideo.mp4(BollyBuffVideo.rar) - video submission - can also be found at https://youtu.be/SaqGiVyrIdo or https://drive.google.com/file/d/1v6JJX82c4_0KjzbiE6Pd9ImhhQ0aUsMK/view?usp=sharing
  
 ## The files in our repository:
 </br>

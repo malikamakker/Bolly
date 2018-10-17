@@ -1,5 +1,5 @@
 pip==18.1
-tensorflow-1.9.0-cp37-cp37m-win_amd64.whl
+tensorflow==1.9.0
 flask==1.0.2
 nltk==3.3
 wordcloud==1.5.0

@@ -1,16 +1,16 @@
 from flask import Flask, render_template, request, json, session, url_for, redirect, flash
 #from passlib.hash import sha256_crypt
-import time
-import datetime
-import word_cloud
-import trend1
-import cluster_predict
+from folder import time
+from folder import datetime
+from folder import word_cloud
+from folder import trend1
+from folder import cluster_predict
 from pathlib import Path
 app = Flask(__name__)
 app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 60
 #import MySQLdb
 
-@app.route("/trends", methods = ['POST', 'GET'])
+@app.route("/", methods = ['POST', 'GET'])
 def trends():
         return render_template("catalog.html")
 

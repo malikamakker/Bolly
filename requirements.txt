@@ -8,4 +8,4 @@ opencv-python==3.4.3.18
 keras==2.2.4
 tensorflow
 sklearn==0.0
-matplotlib-2.2.3-cp35-cp35m-win_amd64.whl
+matplotlib
